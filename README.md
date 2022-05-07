@@ -2,9 +2,7 @@
 
 # Profile
 
-> This project is a part of Microverse Software Developers Course Module-1.
-Here I am developing a Responsive Profile Website. Currently, the project is in the initial stage of development.
-A simple skeleton of mobile version is completed as of now.
+> This project is a part of here goes project description
 
 
 
@@ -15,7 +13,7 @@ A simple skeleton of mobile version is completed as of now.
 
 ## Live Demo
 
-[Live Demo Link](https://angomranjan.github.io/Profile/)
+[Live Demo Link](https://angomranjan.github.io/RepoName/)
 
 ## Authors
 
